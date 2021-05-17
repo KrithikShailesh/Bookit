@@ -1,16 +1,13 @@
-# bookit
+# Bookit
 
-Searcher Satisfied
+Searcher Satisfied. This is an app which enables us to book the wanted home services.
 
-## Getting Started
+## Problem Statement:
 
-This project is a starting point for a Flutter application.
+Sometimes we do not get the electricians or home service providers at a time we want them. So this app will bridge the gap between the service provider and the user. Thereby enabling a hassle free and a smooth service.
 
-A few resources to get you started if this is your first Flutter project:
+## Platform:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+1. Android Studio.
+2. Firebase (Login Authentication).
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
